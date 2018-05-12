@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23348#Old-Mother-Hubbard-and-Her-Dog
 gutenberg_issued: '2007-11-06'
 gutenberg_type: Text
 identifiers:
